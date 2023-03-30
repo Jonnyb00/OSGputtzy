@@ -6,6 +6,8 @@ The character is from a game called one shot golf, its an app on IOS and ANDROID
 
 I've created these items on tinker cad so that you can edit them anyway you'd like, if you don't know how to use tinkercad look it up.
 
+If you are having issues with downloading remember to comment the issue and you can download using the alternitave downloading branch.
+
 Happy putting!!
 
 Contact florawiser#1676 or put a comment on the downloadable file for questions!
