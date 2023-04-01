@@ -1,4 +1,6 @@
 # OSGputtzy
+WARNING! DO NOT PRINT BALL UNTIL TEXT FILE WARNING ON RAR FILE AND README.md IS GONE!
+
 This is a one shot golf puttzy character
                                                                                                                                                                           
 Hello! This is a little run down on how to do all of this but first let me give you some info on what the character is, (I have taken down the one on the 3d printing website to avoid confusion.)
