@@ -1,5 +1,4 @@
 # OSGputtzy
-WARNING! DO NOT PRINT BALL UNTIL TEXT FILE WARNING ON RAR FILE AND README.md IS GONE!
 
 This is a one shot golf puttzy character
                                                                                                                                                                           
